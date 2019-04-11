@@ -12,4 +12,5 @@ For the "communication" between processes we use shared memory segments and sema
 <b> Compilation and Running </b>
 
 $ make
-$ ./project <number of items to produce>
+
+$./project  #number of items to produce
